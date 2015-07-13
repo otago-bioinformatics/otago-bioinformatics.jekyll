@@ -1,0 +1,12 @@
+# Site settings
+title: Otago Bioinformatics Group
+#email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Otago Bioinformatics Group
+baseurl: ""
+url: "http://otago-bioinformatics.github.io"
+#twitter_username: 
+github_username: otago-bioinformatics
+
+# Build settings
+markdown: kramdown
