@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Next meet-up"
+title:  "July meet-up"
 date:   2015-07-13 22:17:43
 categories: meetups
 ---
